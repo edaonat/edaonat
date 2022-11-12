@@ -3,7 +3,7 @@
 
  ✨                            
 - 🌱 I’m currently learning Appium for mobile testing.
-- 💬 Ask me anything about testing environment 
+- 💬 Ask me anything about Testing
 - 📫 How to reach me: edaont@gmail.com
 
 ## 🌐 Contact me
