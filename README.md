@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eda Onat</h1>
 <h3 align="center">A passionate Software Test Engineer from Turkey.</h3>
  ✨                            
-- 🌱 I’m currently learning Appium for mobile testing.
-- 💬 Ask me anything about Testing
 - 📫 How to reach me: edaont@gmail.com
 
 ## 🌐 Contact me
